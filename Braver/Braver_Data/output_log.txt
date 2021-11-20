@@ -1,0 +1,290 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     2034 MB
+    Driver:   27.20.14534.1003
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DemiLib.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DemiLib.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\DOTweenPro.dll into Unity Child Domain
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\14838\Desktop\192.168.31.82\Braver_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on EasyJoystick
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.717800 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 528 -> priority: 1 
+  Thread -> id: 4e44 -> priority: 1 
+  Thread -> id: 5148 -> priority: 1 
+  Thread -> id: 4cbc -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.127800 ms
+
+Unloading 732 unused Assets to reduce memory usage. Loaded Objects now: 6609.
+Total: 3.566500 ms (FindLiveObjects: 0.394000 ms CreateObjectMapping: 0.211900 ms MarkObjects: 1.747900 ms  DeleteObjects: 1.211900 ms)
+
+990
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+980
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+80
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+970
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+70
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+960
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+950
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+940
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+930
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+920
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+910
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+900
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+890
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+880
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+870
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+860
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+850
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+840
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+830
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+820
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+990
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+80
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+980
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+70
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+970
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+960
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+950
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+940
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+930
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+920
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+910
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+900
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+890
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+880
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+870
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
